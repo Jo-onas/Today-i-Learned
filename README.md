@@ -6,5 +6,4 @@ Aprendi: Criar caixa colorida com **"drawBox( )"** e usar Strings para as cores,
 </br>
 
 ## 27/07 - Reforcei o Cochecimento de JS pela plataforma "Grasshopper".
-</br>
 Aprendi: Utilização de Arrays e Uso de operadores Matemáticos.
