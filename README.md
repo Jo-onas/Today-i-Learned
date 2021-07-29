@@ -7,3 +7,8 @@ Aprendi: Criar caixa colorida com **"drawBox( )"** e usar Strings para as cores,
 
 ## 27/07 - Reforcei o Conhecimento de JS pela plataforma "Grasshopper".
 Aprendi: Utilização de Arrays e Uso de operadores Matemáticos.
+
+</br>
+
+## 28/07 - Reforcei o Conhecimento de JS pela plataforma "Grasshopper".
+Aprendi: Interações com Laços de String com o comando **"for...of"**, Revisei conceitos de Operadores Matemáticos.
