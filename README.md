@@ -12,3 +12,6 @@ Aprendi: Utilização de Arrays e Uso de operadores Matemáticos.
 
 ## 28/07 - Reforcei o Conhecimento de JS pela plataforma "Grasshopper".
 Aprendi: Interações com Laços de String com o comando **"for...of"**, Revisei conceitos de Operadores Matemáticos.
+
+## 30/07 - Reforcei o Conhecimento de JS pela plataforma "Grasshopper".
+Aprendi: Usar Laços com operadores matemáticos e Usar laços para aleatorizar valores de uma array
