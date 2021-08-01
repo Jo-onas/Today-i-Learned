@@ -17,3 +17,4 @@ Aprendi: Interações com Laços de String com o comando **"for...of"**, Revisei
 Aprendi: Usar Laços com operadores matemáticos e Usar laços para aleatorizar valores de uma array
 
 ## 31/01/21 - Conclusão do "Fundamentos I" no Grasshopper
+Aprendi:
