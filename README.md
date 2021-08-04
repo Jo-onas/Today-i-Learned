@@ -21,4 +21,5 @@ Aprendi: Expressões de Objetos adicionando propriedades a um Objeto
 
 </br>
 
-## 03/08
+## 03/08 - Revisando conceitos de Html e Css
+Fiz uma revisão de toda estrutura basica do Html e Css
