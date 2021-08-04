@@ -16,10 +16,11 @@ Aprendi: Interações com Laços de String com o comando **"for...of"**, Revisei
 ## 30/07
 Aprendi: Usar Laços com operadores matemáticos e Usar laços para aleatorizar valores de uma array
 
-## 31/01/21 - Conclusão do "Fundamentos I" no Grasshopper
+## 31/07/21 - Conclusão do "Fundamentos I" no Grasshopper
 Aprendi: Expressões de Objetos adicionando propriedades a um Objeto
 
 </br>
 
 ## 03/08 - Revisando conceitos de Html e Css
 Fiz uma revisão de toda estrutura basica do Html e Css
+Aprendi: Usar a tag "<iframe>" para utilizar vídeos na página, Utilizar o Servidor Do Google Fotos para utilizar uma imagem na página
