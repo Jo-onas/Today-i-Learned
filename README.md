@@ -18,3 +18,7 @@ Aprendi: Usar Laços com operadores matemáticos e Usar laços para aleatorizar 
 
 ## 31/01/21 - Conclusão do "Fundamentos I" no Grasshopper
 Aprendi: Expressões de Objetos adicionando propriedades a um Objeto
+
+</br>
+
+## 03/08
