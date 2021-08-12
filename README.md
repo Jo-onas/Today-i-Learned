@@ -26,4 +26,4 @@ Fiz uma revisão de toda estrutura basica do HTML e CSS </br>
 Aprendi: Usar a tag **"<iframe>"** para utilizar vídeos na página, Utilizar o Servidor Do **Google Fotos** para utilizar uma imagem na página, Utilizar a tag **"center"** para alinhar a imagem direto do html, Atribuir o valor **"_blank"** no atributo "target" para abrir a página em uma nova guia.
 
   ## 12/08
-  Aprendi: Organizar o tamanho do Background para ficar proporcinal a tela
+  Aprendi: Organizar o tamanho do Background para ficar proporcinal a tela no CSS com os comandos: **background-repeat** para não repetir a imagem, **background-size** para ajustar a imagem, **background-attachment** para a imagem ficar fixa em uma parte da pagina.
